@@ -5,8 +5,11 @@ Es ist wichtig, dass man jede Technik nahezu perfektioniert. Wenn man dies nicht
 Diese Perfektion ist zum einen erreichbar, durch Basiseigenschaften (Schlagansatz, Ballkontakt und Schlagansatz) und zum anderen auf Verhaltenseigenschaften (Platzierung, Spin und Geschwindigkeit).
 
 ## Beibringen von Technik
+
 Während die technischen Inhalte im Erwachsenentraining meist sachlich erklärt werden, muss bei Kindern auf Analogien zurückgegriffen werden (z.B. Rücktopspin mit einer Frisbee). Wenn die Kinder solche Bewegungen aus ihrem Alltag kennen, dann fällt es ihnen leichter, die Technik zu erlernen.
 Als Trainer sollte man den Kindern Zeit und Freiraum geben. Diese sollten die Techniken ausprobieren dürfen, gerade im Hinblick auf die Rotation, die Kinder erst einmal verstehen müssen. Durch gewisse Aufgaben sensibilisiert man die Kinder für das Verstehen der Rotation.
+
+## Techniken
 
 - Konter/Schuss
   - Vorhandkonter
