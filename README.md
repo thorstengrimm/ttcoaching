@@ -4,4 +4,4 @@ Hier soll mal eine Übersicht/Plattform über Tischtennistraining und Coaching e
 ## Warum ist das Projekt sinnvoll?
 Damit man ein **strukturiertes** Training ermöglichen kann.
 ## Wie können Benutzer am Projekt mitwirken?
-Alle Sengwarden-Trainer können daran mitarbeiten.
+Alle [Sengwarden-Trainer](https://tt-sengwarden.de/trainerteam) können daran mitarbeiten.
