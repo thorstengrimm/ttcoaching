@@ -70,8 +70,7 @@ def find_md_files_and_check_links(base_dir):
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     status = find_md_files_and_check_links(base_dir)
-    print(is_youtube_video_available("https://youtu.be/dQw4w9WgXcQ"))  # Sollte True ausgeben
-
+    
     print("\n🎬 Youtube-Link-Status:")
     for link, reachable in status.items():
         status_text = "✅ ERREICHBAR" if reachable else "❌ NICHT ERREICHBAR"
