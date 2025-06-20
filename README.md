@@ -10,7 +10,7 @@ Damit man ein **strukturiertes** Training ermöglichen kann. Mein Problem als Tr
 
 ## 📖 Inhalte des Projektes
 
-Nicht nur Texte und Bilder werden verwendet, sondern auch Youtube-Videos von Youtubern und der DTTA-Podcast.
+Nicht nur selbst erstellte Texte und Bilder werden verwendet, sondern auch Youtube-Videos von Youtubern und der DTTA-Podcast.
 
 ## 📌 Trainer-Grundsätze
 
@@ -18,7 +18,7 @@ Nicht nur Texte und Bilder werden verwendet, sondern auch Youtube-Videos von You
 - Jeder Spieler muss individuell betrachtet werden.
 - Der Spieler soll immer unabhängig vom Trainer bleiben. Sätze vom Spieler wie "Ich kann nur bei dir trainieren" oder "Nur wenn du in der Halle bist, kann ich am besten spielen" zeigen, dass man als Trainer was falsch gemacht hat.
 
-## Talentfrage
+## 🌟 Talentfrage
 
 Als Trainer möchte man den Kindern bestmöglich unseren Sport beibringen und gleichzeitig bei der Selbstentwicklung des Kindes mithelfen. Sport bzw. ein Verein kann dabei helfen, Kinder auf einen guten sozialen Weg zu bringen.
 Deshalb ist es wichtig, dass der Trainer auch eine Vorbildfunktion hat. 
