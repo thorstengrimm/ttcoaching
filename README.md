@@ -10,7 +10,7 @@ Damit man ein **strukturiertes** Training ermöglichen kann. Mein Problem als Tr
 
 ## 📖 Inhalte des Projektes
 
-Nicht nur Texte und Bilder werden verwendet, sondern auch Youtube-Videos von Youtubern.
+Nicht nur Texte und Bilder werden verwendet, sondern auch Youtube-Videos von Youtubern und der DTTA-Podcast.
 
 ## 📌 Trainer-Grundsatz
 
