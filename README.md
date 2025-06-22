@@ -15,6 +15,7 @@ Nicht nur selbst erstellte Texte und Bilder werden verwendet, sondern auch Youtu
 ## 📌 Trainer-Grundsätze
 
 - **Der Spieler steht im Vordergrund** und nicht der Trainer.
+  - Ist der Spieler gerade aufnahmefähig -> In welchem Zustand befindet sich der Spieler? (keine Lust oder schwierigen Schultag gehabt)
 - Jeder Spieler muss individuell betrachtet werden.
 - Der Spieler soll immer unabhängig vom Trainer bleiben. Sätze vom Spieler wie "Ich kann nur bei dir trainieren" oder "Nur wenn du in der Halle bist, kann ich am besten spielen" zeigen, dass man als Trainer was falsch gemacht hat.
 
