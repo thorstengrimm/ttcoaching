@@ -9,6 +9,10 @@ Diese Perfektion ist zum einen erreichbar, durch Basiseigenschaften (Schlagansat
 Während die technischen Inhalte im Erwachsenentraining meist sachlich erklärt werden, muss bei Kindern auf Analogien zurückgegriffen werden (z.B. Rücktopspin mit einer Frisbee). Wenn die Kinder solche Bewegungen aus ihrem Alltag kennen, dann fällt es ihnen leichter, die Technik zu erlernen.
 Als Trainer sollte man den Kindern Zeit und Freiraum geben. Diese sollten die Techniken ausprobieren dürfen, gerade im Hinblick auf die Rotation, die Kinder erst einmal verstehen müssen. Durch gewisse Aufgaben sensibilisiert man die Kinder für das Verstehen der Rotation.
 
+## Spielsystem
+
+Jeder Spieler hat seinen eigenen naturellen Spielstil und körperliche Vorraussetzungen. Man sollte als Trainer möglichst früh schauen, welches Spielsystem für den Spieler gut wäre und wie sich der Spieler vielleicht körperlich entwickeln könnte. Beispielsweise kann ein großer Spieler eher ein zwei Schritte weiter hinten spielen, weil er mehr Zeit zum Ausschwung braucht.
+
 ## Techniken
 
 - Konter/Schuss
