@@ -18,3 +18,7 @@
 
 Den eigenen Spieler erstmal Tipps geben, was ihn betrifft und im zweiten Schritt, was beim Gegner auffällt. Das macht man, weil der eigene Spieler in der Lage sein muss, dominant zu sein, unabhängig davon, was der Gegner macht.
 Insgesamt reichen pro Satzpause zwei oder drei Tipps, sodass sich der Spieler erstmal darauf konzentrieren kann.
+
+### Verhalten während des Wettkampfes
+
+Der Trainer kann Emotionen (z.B. Jubeln) zeigen, sollte sich aber immer in Absprache mit dem Spieler befinden. Je nachdem, ob es der Spieler das möchte oder nicht.
