@@ -2,7 +2,7 @@
 
 Um die Koordination zu schulen, müssen Koordinationsübungen mit ins Training aufgenommen werden.
 
-# Übungen mit Ball und Schläger
+## Übungen mit Ball und Schläger
 
 Man kann diese Übungen mit der rechten und linken Hand ausführen, sowohl auch mit der Vorhand- und Rückhandseite.
 - Ball auf Schläger balancieren ohne ihn zu verlieren
