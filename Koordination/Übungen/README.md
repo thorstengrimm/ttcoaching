@@ -106,6 +106,25 @@ https://youtu.be/yT_27Lq2-YI
 
 https://www.youtube.com/watch?v=-Jf-lSQhB1E
 
+### Knobelsprint
+
+#### 🧠 Koordinative Fähigkeiten
+- **Reaktionsfähigkeit**
+- **Umstellungsfähigkeit**
+
+#### Hilfsmittel
+| Menge | Gegenstand |
+| :--- | :--- |
+| 1 | Reifen |
+| 3 | Zonen/Linien |
+| 8 | Markierungshütchen |
+
+Die Spieler stehen sich paarweise an der Mittellinie gegenüber und knobeln mit den Symbolen «Schere-SteinPapier». Der Unterlegene sprintet weg, der Knobelsieger versucht, ihn abzufangen (Berührung). Sieger steigen auf, Verlierer ab.
+
+Variation: Turnschuhraub. Ein Turnschuh liegt auf der
+Mittellinie. Wer kann den Schuh stehlen und hinter die
+Linie retten?
+
 ## Reifen
 
 ### Reifenspringen:
