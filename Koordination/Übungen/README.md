@@ -315,6 +315,8 @@ Der Spieler stellt sich auf einen Gymnastikball, der sich auf einer Weichbodenma
 
 ## Koordinationsleiter
 
+https://youtu.be/Xe_CBAXw5NY?si=RgjcCXVkMiyN8fAV
+
 ## Sonstige
 
 ### Angriff auf den Kegel
